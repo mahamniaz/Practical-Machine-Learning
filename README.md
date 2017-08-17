@@ -1,4 +1,4 @@
-Practical machine learning
+Predmachlearn assignment
 ========================
 
-To see the compiled markdown, see [my report](https://github.com/mahamniaz/Practical-Machine-Learning/project.html).
+To see the compiled markdown, see [my report](https://bplank.github.io/predmachlearn/project.html).
