@@ -26,7 +26,7 @@ trainRaw=read.table("data/pml-training.csv",header=TRUE,sep=",")
 barplot(table(trainRaw$classe),xlab="classe",ylab="counts",main="Classes")
 ```
 
-![plot of chunk freqplot](figure/freqplot.png) 
+![plot of chunk freqplot](freqplot.png) 
 
 ```r
 dim(trainRaw)
@@ -338,7 +338,7 @@ Lets plot some of these features to get a feeling how well they distinguish the 
 qplot(magnet_dumbbell_z,pitch_forearm,data=training,color=classe)
 ```
 
-![plot of chunk qplot](figure/qplot.png) 
+![plot of chunk qplot](qplot.png) 
 
 The figure above shows that, for instance, class A and D are nicely separable using this two variables.
 
