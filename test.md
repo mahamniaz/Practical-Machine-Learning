@@ -1,4 +1,4 @@
-# Predictive Machine Learning Project
+# Practical Machine Learning Project
 ===================================
 
 Initial setup.
